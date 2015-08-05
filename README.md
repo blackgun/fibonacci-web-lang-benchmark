@@ -14,6 +14,12 @@ A request to for example http://localhost:3000/10 calculates fib(10) and returns
 
 
 
+Ref:
+
+http://benchmarksgame.alioth.debian.org/
+http://benchmarksgame.alioth.debian.org/u32/performance.php?test=nbody#about
+
+
 -------------
 
 On my macbook air, the testing result:
